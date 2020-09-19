@@ -10,7 +10,7 @@ module.exports = function ({ addUtilities, theme, e }) {
   })
 
   generateFilters({
-    prefix: 'filter',
+    prefix: 'bdf',
     filters: availableFilters,
     addUtilities,
     theme,
