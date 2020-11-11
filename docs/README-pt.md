@@ -4,7 +4,7 @@
 
 Traduções
 
-- [Inglês](README.md)
+- [Inglês](../README.md)
 
 Tailwind CSS Filters são filtos expressivos de CSS para o framework 'utility-first' [Tailwind CSS](https://tailwindcss.com).
 
