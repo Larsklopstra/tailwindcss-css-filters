@@ -2,23 +2,23 @@
 
 # Tailwind CSS Filters
 
-Translations
+Traduções
 
-- [Portuguese](/docs/README-pt.md)
+- [Inglês](../README.md)
 
-Tailwind CSS Filters is a expressive CSS filters for the utility-first framework [Tailwind CSS](https://tailwindcss.com).
+Tailwind CSS Filters são filtos expressivos de CSS para o framework 'utility-first' [Tailwind CSS](https://tailwindcss.com).
 
 ```html
 <div class="filter filter-blur-2 filter-hue-rotate-90 sm:filter-blur-8">
-  Some awesome filters
+  Alguns filtros bacanas
 </div>
 ```
 
-[View Demo](https://play.tailwindcss.com/KVnMFYYpLL)
+[Visualizar demonstração](https://play.tailwindcss.com/KVnMFYYpLL)
 
-## Installation
+## Instalação
 
-Install the plugin from npm:
+Instale o plugin usando npm:
 
 ```bash
 # Using npm
@@ -28,7 +28,7 @@ npm i --save-dev tailwindcss-css-filters
 yarn add -D tailwindcss-css-filters
 ```
 
-Then add the plugin to your `tailwind.config.js` file:
+Depois adicione o plugin para o seu arquivo de configuração do Tailwind `tailwind.config.js`:
 
 ```js
 module.exports = {
@@ -45,11 +45,11 @@ module.exports = {
 }
 ```
 
-## Usage
+## Uso
 
-Now you can use the `filter` classes to add some filters to your HTML elements and images.
+Agora você pode usar as classes `filter` para adicionar filtros em seus elementos HTML e imagens.
 
-## Default Classes
+## Classes Padrões
 
 ```css
 .filter
@@ -247,15 +247,7 @@ Now you can use the `filter` classes to add some filters to your HTML elements a
 .focus\:filter-sepia-200:focus
 ```
 
-### Example
-
-```html
-<a href="/">
-  <img class="filter filter-grayscale-0 hover:filter-grayscale-100">
-</a>
-```
-
-## Customization
+## Customização
 
 ```js
 const filters = [
