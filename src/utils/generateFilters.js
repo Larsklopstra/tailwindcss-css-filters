@@ -13,7 +13,7 @@ module.exports = ({ addUtilities, theme, prefix, filters, e }) => {
     }))
 
     addUtilities(generatedFilter, {
-      variants: ['responsive', 'hover', 'focus'],
+      variants: ['dark', 'responsive', 'hover', 'focus'],
     })
   }
 }
