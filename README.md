@@ -14,7 +14,7 @@ Tailwind CSS Filters is a expressive CSS filters for the utility-first framework
 </div>
 ```
 
-[View Demo](https://play.tailwindcss.com/ZADY1D8ltK?file=config)
+[View Demo](https://play.tailwindcss.com/ZADY1D8ltK)
 
 ## Installation
 
